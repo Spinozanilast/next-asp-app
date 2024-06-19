@@ -1,0 +1,11 @@
+D:\Courses\NextAsp\Carsties\src\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\Courses\NextAsp\Carsties\src\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\Courses\NextAsp\Carsties\src\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\Courses\NextAsp\Carsties\src\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\NextAsp\Carsties\src\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\Courses\NextAsp\Carsties\src\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\Courses\NextAsp\Carsties\src\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Courses\NextAsp\Carsties\src\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\Courses\NextAsp\Carsties\src\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\Courses\NextAsp\Carsties\src\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\Courses\NextAsp\Carsties\src\Contracts\obj\Debug\net8.0\ref\Contracts.dll
